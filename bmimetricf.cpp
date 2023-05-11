@@ -7,11 +7,7 @@ for BMI is
     Weight/Height2
 Where    weight is in kilograms    and height is in meters.
 
-The name of the function should be named bmimetricf and the function should take two parameters which are the weight in kilograms and the height in meters to use to calculate the BMI..  Here is an example call to the function
-int weight = 50;
-float height = 1.58;
-printf(“BMI is: %3.2f”,bmimetricf(weight, height)) ;
-The output of the code above would be: BMI is: 20.03*/
+The name of the function should be named bmimetricf and the function should take two parameters which are the weight in kilograms and the height in meters to use to calculate the BMI..*/
 
 
 
